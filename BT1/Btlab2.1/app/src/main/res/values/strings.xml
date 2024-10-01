@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2.1</string>
+    <string name="bird_name">con chim</string>
+    <string name="monkey_name">Monkey</string>
+    <string name="dog_name">Dog</string>
+    <string name="turtle_name">Rùa</string>
+
+
+</resources>
